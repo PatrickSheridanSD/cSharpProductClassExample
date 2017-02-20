@@ -1,0 +1,6 @@
+C:\Users\Patri\OneDrive\CSProjects\Lab12Classes\Lab12Classes\bin\Debug\Lab12Classes.exe.config
+C:\Users\Patri\OneDrive\CSProjects\Lab12Classes\Lab12Classes\bin\Debug\Lab12Classes.exe
+C:\Users\Patri\OneDrive\CSProjects\Lab12Classes\Lab12Classes\bin\Debug\Lab12Classes.pdb
+C:\Users\Patri\OneDrive\CSProjects\Lab12Classes\Lab12Classes\obj\Debug\Lab12Classes.csprojResolveAssemblyReference.cache
+C:\Users\Patri\OneDrive\CSProjects\Lab12Classes\Lab12Classes\obj\Debug\Lab12Classes.exe
+C:\Users\Patri\OneDrive\CSProjects\Lab12Classes\Lab12Classes\obj\Debug\Lab12Classes.pdb
